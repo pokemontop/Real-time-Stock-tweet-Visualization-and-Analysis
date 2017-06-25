@@ -1,4 +1,4 @@
-# stock_tweets_analysis
+# Real-time Stock-tweet Visualization and Analysis
 Stock market is changing all the time and investors may be looking for relevant information to help them make investment decisions. Public mood can be an important factor of stock trends. The public mood can be estimated by performing sentiment analysis from tweets. Thus, sentiments in tweets may be an indicator for the trend of stock market and may help making decisions on investments for investors.
 ## Tech Stack
 * Google Finance API: Fetch real-time prices of certain stocks per minute.
